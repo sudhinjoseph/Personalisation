@@ -22,7 +22,7 @@ valueee= ["AMCVS_17EB401053DAF4840A490D4C%40AdobeOrg","AMCVS_17EB4010533536AF484
 ## to add products initially
 ##productid = []
 ##filelink=[]
-##for root, dirs, files in os.walk(r"C:\Users\Sandra\Documents\flask\static\uploads"):
+##for root, dirs, files in os.walk(r"C:\Users\Sudhin\Documents\flask\static\uploads"):
     ##for filename in files:
         ##productid.append(str(filename[:-4]))
         ##filelink.append(str(filename))
@@ -34,7 +34,7 @@ valueee= ["AMCVS_17EB401053DAF4840A490D4C%40AdobeOrg","AMCVS_17EB4010533536AF484
 ##conn.close()
 
 ### csv obatined from model using Convolutional Auto Encoders using the images. 15 suggestions to each product"
-suggestion = pd.read_csv("C:/Users/Sandra/Documents/flask/my_csv.csv")
+suggestion = pd.read_csv("C:/Users/Sudhin/Documents/flask/my_csv.csv")
 
 
 
